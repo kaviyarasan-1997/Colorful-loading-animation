@@ -1,5 +1,5 @@
 # Colorful-loading-animation
-<a href="https://kaviyarasan-1997.github.io/Colorful-loading-animation/"></a>
+<a href="https://kaviyarasan-1997.github.io/Colorful-loading-animation/"><img src="https://github.com/KAVIYARASAN-1997/Colorful-loading-animation/blob/main/Etc/VID_20230201_115004_570.gif"></a>
 We have created some responsive html.CSS website templates for you to use. You are free to modify, save, share, and use them in all your projects.
 
 # Colorful-loading-animation
